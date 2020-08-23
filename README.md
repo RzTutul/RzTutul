@@ -11,15 +11,13 @@ Here are some ideas to get you started:
 
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: secret
-- 📫 How to reach me:   <p align="center">
+- 📫 How to reach me:
 <a href="https://www.facebook.com/rz.tutul.90" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="rztutul" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/rz-tutul-278b00159/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rz tutul" height="30" width="30" /></a>
+<a href="https://www.instagram.com/rztutul/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rztutul" height="30" width="30" /></a>
+<a href="https://www.youtube.com/channel/UCZqi4T0C1OAxjWp_nbSNkpw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="rztutul" height="30" width="30" /></a>
 
 ![Rz Tutul github stats](https://github-readme-stats.vercel.app/api?username=RzTutul&show_icons=true&theme=gruvbox)
-
-### Top languages
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RzTutul)](https://github.com/RzTutul/github-readme-stats)
 ### Languages and Tools Experiences 
 
 <p align="left">
