@@ -1,5 +1,4 @@
-### Hi there 👋
-### It' me Rz Tutul 👋
+### Hi there i'm Rz Tutul 👋
 
 Here are some ideas to get you started:
 
