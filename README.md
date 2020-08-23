@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/rztutul/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rztutul" height="30" width="30" /></a>
 <a href="https://www.youtube.com/channel/UCZqi4T0C1OAxjWp_nbSNkpw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="rztutul" height="30" width="30" /></a>
 
-![Rz Tutul github stats](https://github-readme-stats.vercel.app/api?username=RzTutul&show_icons=true&theme=gruvbox)
+![Rz Tutul github stats](https://github-readme-stats.vercel.app/api?username=RzTutul&show_icons=true)
 ### Languages and Tools Experiences 
 
 <p align="left">
