@@ -2,11 +2,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Android App
-- 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate on android app
+- 🔭 I’m currently working on a mega project
+- 🌱 I’m currently starting a tech company 
+- 👯 I’m looking to collaborate on the Flutter app
 - 🤔 I’m looking for help with flutter ui 
-- 💬 Ask me about android app 
+- 💬 Ask me about the Flutter app 
 
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: video gaming 
