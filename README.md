@@ -1,4 +1,4 @@
-### Hi there I'm Rz Tutul CEO OF [ArcadexIT](www.arcadexit.com) 👋
+### Hi there I'm Rz Tutul CEO OF [ArcadexIT](https://www.arcadexit.com/) 👋
 
 Here are some ideas to get you started:
 
